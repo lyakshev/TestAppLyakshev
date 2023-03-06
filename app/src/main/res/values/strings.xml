@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BIN анализатор</string>
+    <string name="t1">Введите BIN</string>
+    <string name="b1">OK</string>
+    <string name="text1">SCHEME / NETWORK</string>
+    <string name="text2">BRAND</string>
+    <string name="text3">CARD NUMBER</string>
+    <string name="text4">LENGTH</string>
+    <string name="text5">LUHN</string>
+    <string name="text6">TYPE</string>
+    <string name="text7">PREPAID</string>
+    <string name="text8">COUNTRY</string>
+    <string name="text9">BANK</string>
+    <string name="textHint">\?</string>
+    <string name="hyperlink"><a href=""></a></string>
+</resources>
